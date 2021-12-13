@@ -1,0 +1,12 @@
+C:\Users\korisnik\Desktop\Juraj Crljenko\NiOP\ZDzaOcjenu\ZDzaOcjenu\ZDzaOcjenu\bin\Debug\ZDzaOcjenu.exe.config
+C:\Users\korisnik\Desktop\Juraj Crljenko\NiOP\ZDzaOcjenu\ZDzaOcjenu\ZDzaOcjenu\bin\Debug\ZDzaOcjenu.exe
+C:\Users\korisnik\Desktop\Juraj Crljenko\NiOP\ZDzaOcjenu\ZDzaOcjenu\ZDzaOcjenu\bin\Debug\ZDzaOcjenu.pdb
+C:\Users\korisnik\Desktop\Juraj Crljenko\NiOP\ZDzaOcjenu\ZDzaOcjenu\ZDzaOcjenu\obj\Debug\ZDzaOcjenu.csproj.AssemblyReference.cache
+C:\Users\korisnik\Desktop\Juraj Crljenko\NiOP\ZDzaOcjenu\ZDzaOcjenu\ZDzaOcjenu\obj\Debug\ZDzaOcjenu.AddBook.resources
+C:\Users\korisnik\Desktop\Juraj Crljenko\NiOP\ZDzaOcjenu\ZDzaOcjenu\ZDzaOcjenu\obj\Debug\ZDzaOcjenu.AddPerson.resources
+C:\Users\korisnik\Desktop\Juraj Crljenko\NiOP\ZDzaOcjenu\ZDzaOcjenu\ZDzaOcjenu\obj\Debug\ZDzaOcjenu.Form1.resources
+C:\Users\korisnik\Desktop\Juraj Crljenko\NiOP\ZDzaOcjenu\ZDzaOcjenu\ZDzaOcjenu\obj\Debug\ZDzaOcjenu.Properties.Resources.resources
+C:\Users\korisnik\Desktop\Juraj Crljenko\NiOP\ZDzaOcjenu\ZDzaOcjenu\ZDzaOcjenu\obj\Debug\ZDzaOcjenu.csproj.GenerateResource.cache
+C:\Users\korisnik\Desktop\Juraj Crljenko\NiOP\ZDzaOcjenu\ZDzaOcjenu\ZDzaOcjenu\obj\Debug\ZDzaOcjenu.csproj.CoreCompileInputs.cache
+C:\Users\korisnik\Desktop\Juraj Crljenko\NiOP\ZDzaOcjenu\ZDzaOcjenu\ZDzaOcjenu\obj\Debug\ZDzaOcjenu.exe
+C:\Users\korisnik\Desktop\Juraj Crljenko\NiOP\ZDzaOcjenu\ZDzaOcjenu\ZDzaOcjenu\obj\Debug\ZDzaOcjenu.pdb
